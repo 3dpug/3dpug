@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @3dpug
-- 👀 I’m interested in 3D Printing
+- 👋 Hi, I’m Carl Inguanez
+- 👀 I’m interested in 3D Printing @3dpug
 - 🌱 I’m currently learning at De La Salle College Malta
 - 📫 How to reach me carlinguanez@gmail.com
 - ⚡ Fun fact: I practice waterpolo, and love Motorsport (especially the WEC)
